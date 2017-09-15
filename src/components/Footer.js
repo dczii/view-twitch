@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
+import { Row, Col } from 'react-grid-system';
 
 class Footer extends Component {
   render() {
     return (
-        <div class="row">
-        	<div class="col-md-12" style={{textAlign: 'center'}}>
-        		Design and Codes by <a href="https://dczii.github.io/">DcZII</a>
-        	</div>
-        </div>
+    	<Col md={12}>
+    		Design and Codes by <a href="https://dczii.github.io/">DcZII</a>
+    	</Col>
     );
   }
 }

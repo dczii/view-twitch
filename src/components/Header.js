@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import { Row, Col } from 'react-grid-system';
 
 class Header extends Component {
   render() {
     return (
-    	<Col md={12} style={{textAlign: 'center'}}>
+    	<Col md={12}>
     		<img src="https://dczii.github.io/images/logo.png" />
     	</Col>
     );
