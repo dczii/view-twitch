@@ -6,6 +6,7 @@
   "dependencies": {
     "animate.css": "^3.5.2",
     "gh-pages": "^1.0.0",
+    "lodash": "^4.17.4",
     "material-ui": "^0.19.1",
     "mdi-react": "^2.0.46",
     "react": "^15.6.1",
