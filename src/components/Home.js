@@ -9,7 +9,7 @@ class Home extends Component {
     constructor(props) {
         super(props)
         this.state = {
-            url: ['esl_sc2', 'womboxcombo', 'summit1g']
+            url: ['esl_sc2', 'womboxcombo', 'summit1g', 'wxcstudio']
         }
     }
    

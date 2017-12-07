@@ -1,5 +1,7 @@
 body {
   background-color: gray;
+  background-image: url("https://images8.alphacoders.com/702/702959.jpg");
+  background-size: cover;
 }
 
 .center {
@@ -25,4 +27,22 @@ body {
 
 .stream-container {
     padding: 10px;
+}
+
+.statusStyle {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.iconStyle {
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+.red {
+    fill: #F44336;
+}
+
+.green {
+    fill: #8BC34A;
 }
